@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivens Byiringiro
 - 👀 I’m interested in Web & Blockchain Development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Fullstack Projects &
+- 🌱 I’m currently learning Machine Learning and deep Blockchain
+- 💞️ I’m looking to collaborate on Fullstack Projects & Machine Learning projects
 - 📫 How to reach me ...
 
 <!---
