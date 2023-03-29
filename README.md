@@ -1,9 +1,6 @@
-<!-- - 👋 Hi, I’m Vivens Byiringiro
-- 👀 I’m interested in Web & Blockchain Development
-- 🌱 I’m currently learning Machine Learning and deep Blockchain
-- 💞️ I’m looking to collaborate on Fullstack Projects & Machine Learning projects
-- 📫 How to reach me @ vivens.byiringiro77@gmail.com, vivensb.com -->
-
+- 👋 Hi there !
+- 👀 I’m interested in full-stack web apps development
+- 🌱 I’m currently learning Deep Learning and deep web3
 <!---
 VivensB/VivensB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
