@@ -66,10 +66,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=radical&hide=html,css,scss,shell&layout=compact&hide_border=true&langs_count=6&card_width=300" />
 </p>
 
-![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&custom_title=My%20Code%20Distribution&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8&hide=scss,css,html&exclude_repo=legacy,experiments&theme=radical)
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
