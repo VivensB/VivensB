@@ -50,20 +50,43 @@
 
 ### 📈 GitHub Stats
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- Streak Card (with fallback) -->
+  <!-- Auto-switching Stats Cards -->
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=default&hide_border=true" media="(prefers-color-scheme: light)" alt="GitHub Streak">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=dark&hide_border=true" alt="GitHub Streak">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=vivensb&theme=radical" alt="GitHub Stats" />
   </picture>
-  
-  <!-- Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=default&hide_border=true&langs_count=6&hide=html,css,scss" alt="Top Languages" />
+
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical" alt="GitHub Streak" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=css,scss"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=default&hide_border=true&langs_count=8&hide=css,scss"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=radical" alt="Top Languages" />
+  </picture>
 </p>
 
 ### 📊 GitHub Language Stats
