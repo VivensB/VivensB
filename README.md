@@ -1,61 +1,79 @@
 <!-- README.md for github.com/vivensb -->
 <h1 align="center">Hi 👋, I'm Vivens B</h1>
-<h3 align="center">💻 Full-Stack Engineer | Trading Systems Architect | AI/Cloud Specialist</h3>
+<h3 align="center">💻 Full-Stack Engineer | Smart Money Trader | AI Builder | Cloud DevOps Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=6%2B+Years+of+Production+Experience;Python%2FTS+Specialist+%7C+Cloud+DevOps+Pro;Building+Scalable+Systems+and+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=6%2B+Years+Experience+in+Software+Engineering;Expert+in+Python%2C+TypeScript%2C+JavaScript;Cloud+DevOps+%7C+Shell+Ninja+%7C+Backend+Wizard;Building+AI+%7C+Trading+Systems+%7C+Smart+Ops" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Core Stack
+### 🔧 Technologies & Tools
 
-#### 🔥 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+#### 💻 Core Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![Fastify](https://img.shields.io/badge/Fastify-20232a?style=flat&logo=fastify)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel)
+![PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=flat&logo=php)
 
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+#### ☁️ Cloud, DevOps & Scripting
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat&logo=linode)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash)
 
-#### 🧠 AI & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface)
+#### 🧠 AI, Data & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
+
+#### 🎨 UI & Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5)
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss&exclude_repo=repo1,repo2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=radical&langs_count=8&hide=css,scss" />
 </p>
 
+### 📊 GitHub Language Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=radical&layout=pie&langs_count=8&hide=scss,less,dockerfile&hide_border=true&exclude_repo=docs,config-files,templates" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=radical&hide=html,css,scss,shell&layout=compact&hide_border=true&langs_count=6&card_width=300" />
 </p>
 
----
-
-### 🐍 Contribution Snake 
-
-![Contribution Snake](https://raw.githubusercontent.com/vivensb/vivensb/output/snake.svg)
-
-*Generated with [Platane/snk](https://github.com/Platane/snk)*
+![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&custom_title=My%20Code%20Distribution&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8&hide=scss,css,html&exclude_repo=legacy,experiments&theme=radical)
 
 ---
 
-### 🏆 Achievements
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivensb&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivensb&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
 </p>
 
 ---
@@ -70,7 +88,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ### 🔥 Current Projects
@@ -82,4 +99,14 @@
 
 ---
 
-> *"First solve the problem, then write the code."* — John Johnson
+### ⚙️ Extra Badges & Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/vivensb/vivensb?color=green)
+![Typing Speed](https://img.shields.io/badge/Typing-Speed-130wpm-brightgreen?style=flat&logo=git)
+![Years of Code](https://img.shields.io/badge/Coding-6%2B_Years-blue?style=flat)
+![Projects Built](https://img.shields.io/badge/Projects-25%2B-green?style=flat)
+
+---
+
+> 🧠 *“Great software is built from chaos — organized by focus and vision.”* — Vivens B
