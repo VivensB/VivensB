@@ -48,47 +48,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <!-- Auto-switching Stats Cards -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=vivensb&theme=radical" alt="GitHub Stats" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical" alt="GitHub Streak" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=css,scss"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=default&hide_border=true&langs_count=8&hide=css,scss"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=radical" alt="Top Languages" />
-  </picture>
-</p>
-
 ### 📊 GitHub Language Stats
 
 <p align="center">
