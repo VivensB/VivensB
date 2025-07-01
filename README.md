@@ -66,7 +66,7 @@
 
 ---
 
-### 📬 Connect With Me
+### 📫 Reach Me
 
 <p align="center">
   <a href="https://linkedin.com/in/vivens-byiringiro-49b932194">
@@ -75,7 +75,14 @@
   <a href="mailto:vivens.byiringiro77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/447403658299" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://vivensb.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 ---
 
 ### 🔥 Current Projects
