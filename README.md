@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full-Stack Engineer | AI Builder | Cloud DevOps Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Engineering;Expert+in+Python%2C+TypeScript%2C+JavaScript;Cloud+DevOps+%7C+Shell+Ninja+%7C+Backend+Wizard;Building+AI+%7C+Trading+Systems+%7C+Smart+Ops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=620&lines=Software+Engineering;Expert+in+Python%2C+TypeScript%2C+JavaScript;Cloud+DevOps+%7C+Shell+Ninja+%7C+Backend+Wizard;Building+AI+%7C+Trading+Systems+%7C+Smart+Ops" alt="Typing SVG" />
 </p>
 
 ---
