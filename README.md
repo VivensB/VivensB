@@ -50,10 +50,20 @@
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=radical&langs_count=8&hide=css,scss" />
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Streak Card (with fallback) -->
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=default&hide_border=true" media="(prefers-color-scheme: light)" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=dark&hide_border=true" alt="GitHub Streak">
+  </picture>
+  
+  <!-- Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=default&hide_border=true&langs_count=6&hide=html,css,scss" alt="Top Languages" />
 </p>
 
 ### 📊 GitHub Language Stats
