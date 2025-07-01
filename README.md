@@ -3,26 +3,17 @@
 <h3 align="center">💻 Full-Stack Engineer | Smart Money Trader | AI Builder | Cloud DevOps Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=6%2B+Years+Experience+in+Software+Engineering;Smart+Money+Trader+%7C+Zicharts+Founder;Jarvis+AI+%7C+Deep+Tech+Builder;Vue.js+%7C+Nuxt+%7C+Laravel+%7C+Fastify+%7C+Cloud+Ninja" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=6%2B+Years+Experience+in+Software+Engineering;Expert+in+Python%2C+TypeScript%2C+JavaScript;Cloud+DevOps+%7C+Shell+Ninja+%7C+Backend+Wizard;Building+AI+%7C+Trading+Systems+%7C+Smart+Ops" alt="Typing SVG" />
 </p>
-
----
-
-### 🚀 About Me
-
-- 💼 **6+ years** of professional experience in full-stack engineering
-- 🧠 Focused on building **Jarvis** (AI OS) and **Zicharts** (custom trading platform)
-- 💹 Trading systems expert using Smart Money Concepts, S&D, Order Flow
-- ☁️ Passionate about **cloud-native development**, DevOps, and backend engineering
 
 ---
 
 ### 🔧 Technologies & Tools
 
-#### 💻 Core Development
+#### 💻 Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
@@ -31,7 +22,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=flat&logo=php)
 
-#### 🌐 Cloud & DevOps
+#### ☁️ Cloud, DevOps & Scripting
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
@@ -40,7 +31,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash)
 
-#### 🧠 AI, Data & Infra
+#### 🧠 AI, Data & Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
@@ -62,7 +53,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=radical&langs_count=8&hide=css,scss" />
 </p>
 
 ---
@@ -87,7 +78,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/vivens-byiringiro-49b932194)
 - 📧 vivens.byiringiro77@gmail.com
-- 🧠 Building: `Jarvis` (AI System), `Zicharts` (Charting Platform), `Trading Logic Framework`
+- 🧠 Building: Trading Automation, AI Systems, Deep-Tech Infrastructure
 
 ---
 
