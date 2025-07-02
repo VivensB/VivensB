@@ -94,6 +94,11 @@
 
 ---
 
+### 📈 Full Contribution Metrics
+
+![Metrics](https://github.com/VivensB/VivensB/blob/main/metrics.svg)
+
+
 ### ⚙️ Extra Badges & Stats
 <p align="center"> <!-- Profile Views --> <img src="https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" /> <!-- Activity --> <img src="https://img.shields.io/github/commit-activity/m/vivensb/vivensb?color=blue&label=Monthly%20Commits" alt="Commit Activity" /> <!-- Typing Speed (Fixed) --> <img src="https://img.shields.io/badge/Typing_Speed-130_WPM-brightgreen?logo=fastly&logoColor=white" alt="Typing Speed" /> <!-- Experience --> <img src="https://img.shields.io/badge/Experience-6%2B_Years-important?logo=codeforces" alt="Coding Years" /> <!-- Projects --> <img src="https://img.shields.io/badge/Projects-25%2B-success?logo=github" alt="Projects Built" /> <!-- Streak --> <img src="https://img.shields.io/badge/Current_Streak-7_days-orange?logo=github" alt="Current Streak" /> </p>
 
