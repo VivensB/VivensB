@@ -14,9 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, repositories
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_categories: programming
           plugin_languages_ignored: html, css, shell
           plugin_topics: yes
