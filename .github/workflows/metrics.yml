@@ -1,14 +1,15 @@
 name: Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]  # Daily
+  schedule: [{ cron: "0 0 * * *" }]  # Runs daily
+  workflow_dispatch:                # Allow manual trigger
   push: { branches: ["main"] }
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.33
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, repositories
@@ -17,16 +18,13 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_categories: programming
-          plugin_languages_analysis_timeout: 25
-          plugin_languages_limit: 10
-          plugin_stargazers: yes
-          plugin_followup: yes
-          plugin_traffic: yes
-          plugin_habits: yes
-          plugin_lines: yes
+          plugin_languages_ignored: html, css, shell
+          plugin_languages_limit: 15
+          plugin_languages_analysis_timeout: 60
           plugin_topics: yes
           plugin_isocalendar: yes
           plugin_notable: yes
-          config_output: metrics-main.svg           # ✅ your custom file
+          plugin_lines: yes
+          config_output: metrics-main.svg
           output_action: commit
-          committer_branch: main                    # ✅ single branch (yours)
+          committer_branch: main
