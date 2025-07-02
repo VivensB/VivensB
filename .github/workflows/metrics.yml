@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * *"}] # Runs daily
+  workflow_dispatch: # Manual trigger
   push: {branches: ["main"]}
-  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -14,7 +14,8 @@ jobs:
           base: activity, repositories
           repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_sections: most-used
-          plugin_languages_categories: programming
-          plugin_languages_limit: 8
+          plugin_followup: yes
+          plugin_stargazers: yes
+          plugin_traffic: yes
+          output_action: commit
+          committer_branch: main
