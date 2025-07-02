@@ -11,6 +11,7 @@
 ### 🔧 Technologies & Tools
 
 #### 💻 Core Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,6 +24,7 @@
 ![PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=flat&logo=php)
 
 #### ☁️ Cloud, DevOps & Scripting
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
@@ -32,6 +34,7 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash)
 
 #### 🧠 AI, Data & Backend
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
@@ -41,6 +44,7 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
 
 #### 🎨 UI & Design
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
@@ -96,11 +100,12 @@
 
 ### 📈 Full Contribution Metrics
 
-![Metrics](https://github.com/VivensB/VivensB/blob/main/metrics-main.svg)
+![Metrics](https://github.com/VivensB/VivensB/blob/main/github-metrics.svg)
 
 ### ⚙️ Extra Badges & Stats
+
 <p align="center"> <!-- Profile Views --> <img src="https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" /> <!-- Activity --> <img src="https://img.shields.io/github/commit-activity/m/vivensb/vivensb?color=blue&label=Monthly%20Commits" alt="Commit Activity" /> <!-- Typing Speed (Fixed) --> <img src="https://img.shields.io/badge/Typing_Speed-130_WPM-brightgreen?logo=fastly&logoColor=white" alt="Typing Speed" /> <!-- Experience --> <img src="https://img.shields.io/badge/Experience-6%2B_Years-important?logo=codeforces" alt="Coding Years" /> <!-- Projects --> <img src="https://img.shields.io/badge/Projects-25%2B-success?logo=github" alt="Projects Built" /> <!-- Streak --> <img src="https://img.shields.io/badge/Current_Streak-7_days-orange?logo=github" alt="Current Streak" /> </p>
 
 ---
 
-> 🧠 *“Great software is built from chaos — organized by focus and vision.”* — Vivens B
+> 🧠 _“Great software is built from chaos — organized by focus and vision.”_ — Vivens B
