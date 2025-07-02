@@ -19,8 +19,6 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_categories: programming
           plugin_languages_ignored: html, css, shell
-          plugin_languages_limit: 15
-          plugin_languages_analysis_timeout: 60
           plugin_topics: yes
           plugin_isocalendar: yes
           plugin_notable: yes
