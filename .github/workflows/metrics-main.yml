@@ -1,7 +1,7 @@
-name: Metrics (main)
+name: Metrics
 on:
-  schedule: [{ cron: "0 2 * * *" }] # Runs daily at 2 AM
-  workflow_dispatch:
+  schedule: [{ cron: "0 0 * * *" }] # Runs daily
+  push: { branches: ["main"] } # Trigger on push to main branch
 
 jobs:
   github-metrics:
