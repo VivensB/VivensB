@@ -94,9 +94,13 @@
 
 ---
 
-### 📈 Full Contribution Metrics
+### 📈 Contribution Metrics
 
-![Metrics](https://github.com/VivensB/VivensB/blob/main/metrics.svg)
+#### From `main` branch
+![Main Metrics](https://github.com/VivensB/VivensB/blob/main/metrics-main.svg)
+
+#### From `master` branch
+![Master Metrics](https://github.com/VivensB/VivensB/blob/master/metrics-master.svg)
 
 
 ### ⚙️ Extra Badges & Stats
