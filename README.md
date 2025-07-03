@@ -95,7 +95,6 @@
 - ☁️ Cloud-native architecture patterns
 - 🚀 High-performance backend systems
 - ⚡ Real-time data processing pipelines
-
 ---
 
 ### 📈 Full Contribution Metrics
