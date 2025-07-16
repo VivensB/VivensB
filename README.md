@@ -35,13 +35,25 @@
 
 #### 🧠 AI, Data & Backend
 
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
+![Transformers](https://img.shields.io/badge/Transformers-FCC72C?style=flat&logo=python)
+![LLamaIndex](https://img.shields.io/badge/LLamaIndex-3B3B98?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-RetrievalAugmentedGeneration-blue)
+![Pipelines](https://img.shields.io/badge/LLM_Pipelines-005BBB?style=flat)
+![Finetuning](https://img.shields.io/badge/Finetuning-Transformers-EA4335?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
+
 
 #### 🎨 UI & Design
 
