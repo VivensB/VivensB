@@ -43,6 +43,8 @@
 ![Pipelines](https://img.shields.io/badge/LLM_Pipelines-005BBB?style=flat)
 ![Finetuning](https://img.shields.io/badge/Finetuning-Transformers-EA4335?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn)
