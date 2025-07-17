@@ -33,6 +33,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash)
 
+
 #### 🧠 AI, Data & Backend
 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
@@ -55,6 +56,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0A0A23?style=flat&logo=drizzle)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 
 
 #### 🎨 UI & Design
