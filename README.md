@@ -116,9 +116,12 @@
 - ⚡ Real-time data processing pipelines
 ---
 
+<!--
 ### 📈 Full Contribution Metrics
 
 ![Metrics](https://github.com/VivensB/VivensB/blob/main/github-metrics.svg)
+-->
+
 
 ### ⚙️ Extra Badges & Stats
 
