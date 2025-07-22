@@ -1,5 +1,5 @@
 <!-- README.md for github.com/vivensb -->
-<h1 align="center">Hi 👋, I'm Vivens B</h1>
+<h1 align="center">👋 Hi, I'm Vivens B</h1>
 <h3 align="center">💻 Full-Stack Engineer | AI Builder | Cloud DevOps Specialist</h3>
 
 <p align="center">
@@ -8,22 +8,33 @@
 
 ---
 
-### 🔧 Technologies & Tools
+## 🚀 About Me
 
-#### 💻 Core Languages & Frameworks
+I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years of hands-on experience designing, building, and deploying scalable systems. My passion lies at the intersection of software engineering, artificial intelligence, and cloud-native DevOps. I craft intelligent, efficient, and reliable solutions—from advanced AI agents to cloud-optimized backend architectures.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
+
+## 🛠️ Tech Toolbox
+
+### 💻 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=flat&logo=php)
+
+### 🔧 Frameworks & Runtime
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 ![Fastify](https://img.shields.io/badge/Fastify-20232a?style=flat&logo=fastify)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel)
-![PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=flat&logo=php)
 
-#### ☁️ Cloud, DevOps & Scripting
+---
+
+### ☁️ Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
@@ -33,36 +44,45 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash)
 
+---
 
-#### 🧠 AI, Data & Backend
+### 🧠 AI & Data Engineering
 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
 ![Transformers](https://img.shields.io/badge/Transformers-FCC72C?style=flat&logo=python)
 ![LLamaIndex](https://img.shields.io/badge/LLamaIndex-3B3B98?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-RetrievalAugmentedGeneration-blue)
-![Pipelines](https://img.shields.io/badge/LLM_Pipelines-005BBB?style=flat)
+![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-005BBB?style=flat)
 ![Finetuning](https://img.shields.io/badge/Finetuning-Transformers-EA4335?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+---
+
+### 🔗 Backend, APIs & Databases
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0A0A23?style=flat&logo=drizzle)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 
+---
 
-#### 🎨 UI & Design
+### 🎨 UI/UX & Frontend Design
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
@@ -71,17 +91,17 @@
 
 ---
 
-### 📊 GitHub Language Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=radical&layout=pie&langs_count=8&hide=scss,less,dockerfile&hide_border=true&exclude_repo=docs,config-files,templates" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=radical&hide=html,css,scss,shell&layout=compact&hide_border=true&langs_count=6&card_width=300" />
 </p>
 
-### 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vivensb&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
@@ -89,7 +109,7 @@
 
 ---
 
-### 📫 Reach Me
+## 📬 Get in Touch
 
 <p align="center">
   <a href="https://linkedin.com/in/vivens-byiringiro-49b932194">
@@ -108,25 +128,26 @@
 
 ---
 
-### 🔥 Current Projects
+## 🔥 What I'm Building Now
 
-- 🤖 AI-powered trading algorithms
-- ☁️ Cloud-native architecture patterns
-- 🚀 High-performance backend systems
-- ⚡ Real-time data processing pipelines
----
-
-<!--
-### 📈 Full Contribution Metrics
-
-![Metrics](https://github.com/VivensB/VivensB/blob/main/github-metrics.svg)
--->
-
-
-### ⚙️ Extra Badges & Stats
-
-<p align="center"> <!-- Profile Views --> <img src="https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" /> <!-- Activity --> <img src="https://img.shields.io/github/commit-activity/m/vivensb/vivensb?color=blue&label=Monthly%20Commits" alt="Commit Activity" /> <!-- Typing Speed (Fixed) --> <img src="https://img.shields.io/badge/Typing_Speed-130_WPM-brightgreen?logo=fastly&logoColor=white" alt="Typing Speed" /> <!-- Experience --> <img src="https://img.shields.io/badge/Experience-6%2B_Years-important?logo=codeforces" alt="Coding Years" /> <!-- Projects --> <img src="https://img.shields.io/badge/Projects-25%2B-success?logo=github" alt="Projects Built" /> <!-- Streak --> <img src="https://img.shields.io/badge/Current_Streak-7_days-orange?logo=github" alt="Current Streak" /> </p>
+- 🤖 AI-powered trading & automation agents  
+- ☁️ Cloud-native platforms with microservices  
+- 🧠 LLM-based personal assistant (Jarvis v1–v7)  
+- ⚡ Real-time processing systems & data pipelines
 
 ---
 
-> 🧠 _“Great software is built from chaos — organized by focus and vision.”_ — Vivens B
+## 🎯 Extra Stats & Badges
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/commit-activity/m/vivensb/vivensb?color=blue&label=Monthly%20Commits" alt="Commit Activity" />
+  <img src="https://img.shields.io/badge/Typing_Speed-130_WPM-brightgreen?logo=fastly&logoColor=white" alt="Typing Speed" />
+  <img src="https://img.shields.io/badge/Experience-6%2B_Years-important?logo=codeforces" alt="Years of Experience" />
+  <img src="https://img.shields.io/badge/Projects-25%2B-success?logo=github" alt="Projects Completed" />
+  <img src="https://img.shields.io/badge/Current_Streak-7_days-orange?logo=github" alt="Commit Streak" />
+</p>
+
+---
+
+> 🧠 _"Great software is built from chaos — organized by focus and vision."_ — **Vivens B**
