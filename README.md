@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years of hands-on experience designing, building, and deploying scalable systems. My passion lies at the intersection of software engineering, artificial intelligence, and cloud-native DevOps. I craft intelligent, efficient, and reliable solutions—from advanced AI agents to cloud-optimized backend architectures.
+I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years of experience in building scalable, intelligent, and high-performance systems. I specialize in modern web architecture, artificial intelligence, backend APIs, and DevOps practices, blending engineering skill with entrepreneurial vision.
 
 ---
 
@@ -23,20 +23,74 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=flat&logo=php)
 
-### 🔧 Frameworks & Runtime
+---
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![Fastify](https://img.shields.io/badge/Fastify-20232a?style=flat&logo=fastify)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel)
+## ⚙️ Backend, APIs & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc)
+![gRPC](https://img.shields.io/badge/gRPC-00599C?style=flat&logo=grpc)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka)
+![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-1E4E8C?style=flat&logo=timescaledb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-3498DB?style=flat)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat&logo=websockets)
 
 ---
 
-### ☁️ Cloud & DevOps
+## 🎨 UI/UX & Frontend Design
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5)
+
+---
+
+## 🧠 Machine Learning & Transformers
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=flat&logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![LLamaIndex](https://img.shields.io/badge/LLamaIndex-3B3B98?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-RetrievalAugmentedGeneration-blue)
+![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-005BBB?style=flat)
+![Finetuning](https://img.shields.io/badge/Finetuning-Transformers-EA4335?style=flat)
+
+---
+
+## 🚀 DevOps & Infra
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean)
@@ -46,48 +100,9 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-### 🧠 AI & Data Engineering
+## 🌐 Communication & Streaming
 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
-![Transformers](https://img.shields.io/badge/Transformers-FCC72C?style=flat&logo=python)
-![LLamaIndex](https://img.shields.io/badge/LLamaIndex-3B3B98?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
-![RAG](https://img.shields.io/badge/RAG-RetrievalAugmentedGeneration-blue)
-![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-005BBB?style=flat)
-![Finetuning](https://img.shields.io/badge/Finetuning-Transformers-EA4335?style=flat)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn)
-
----
-
-### 🔗 Backend, APIs & Databases
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0A0A23?style=flat&logo=drizzle)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize)
-
----
-
-### 🎨 UI/UX & Frontend Design
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc)
 
 ---
 
@@ -118,7 +133,7 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
   <a href="mailto:vivens.byiringiro77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/447403658299" target="_blank">
+  <a href="https://wa.me/250786772668" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://vivensb.vercel.app" target="_blank">
@@ -128,24 +143,24 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## 🔥 What I'm Building Now
+## 🔥 Current Projects
 
-- 🤖 AI-powered trading & automation agents  
-- ☁️ Cloud-native platforms with microservices  
-- 🧠 LLM-based personal assistant (Jarvis v1–v7)  
-- ⚡ Real-time processing systems & data pipelines
+- 🤖 AI-powered trading systems and agents  
+- ☁️ Cloud-native & distributed architectures  
+- 🧠 LLM-based smart assistants (Jarvis v1–v7)  
+- ⚡ Real-time data pipelines & automation
 
 ---
 
-## 🎯 Extra Stats & Badges
+## 📊 Extra Stats & Badges
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/commit-activity/m/vivensb/vivensb?color=blue&label=Monthly%20Commits" alt="Commit Activity" />
-  <img src="https://img.shields.io/badge/Typing_Speed-130_WPM-brightgreen?logo=fastly&logoColor=white" alt="Typing Speed" />
-  <img src="https://img.shields.io/badge/Experience-6%2B_Years-important?logo=codeforces" alt="Years of Experience" />
-  <img src="https://img.shields.io/badge/Projects-25%2B-success?logo=github" alt="Projects Completed" />
-  <img src="https://img.shields.io/badge/Current_Streak-7_days-orange?logo=github" alt="Commit Streak" />
+  <img src="https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/commit-activity/m/vivensb/vivensb?color=blue&label=Monthly%20Commits" />
+  <img src="https://img.shields.io/badge/Typing_Speed-130_WPM-brightgreen?logo=fastly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-6%2B_Years-important?logo=codeforces" />
+  <img src="https://img.shields.io/badge/Projects-25%2B-success?logo=github" />
+  <img src="https://img.shields.io/badge/Current_Streak-7_days-orange?logo=github" />
 </p>
 
 ---
