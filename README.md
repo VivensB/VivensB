@@ -107,12 +107,17 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=radical&layout=compact&hide_border=true&langs_count=6" />
+  <!-- Main stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Streak stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=vivensb&theme=tokyonight&hide_border=true" />
+
+  <!-- Top languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" />
 </p>
+
 
 
 ---
