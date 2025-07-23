@@ -73,10 +73,8 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![LLamaIndex](https://img.shields.io/badge/LLamaIndex-3B3B98?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-RetrievalAugmentedGeneration-blue)
 ![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-005BBB?style=flat)
-![Finetuning](https://img.shields.io/badge/Finetuning-Transformers-EA4335?style=flat)
 
 ---
 
@@ -105,19 +103,9 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=vue" alt="Vivensb's GitHub stats" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivensb&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivensb&theme=radical" />
 </p>
-
----
 
 ## 📬 Get in Touch
 
