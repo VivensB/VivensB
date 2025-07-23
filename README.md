@@ -105,8 +105,8 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivensb&theme=radical" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=vue" alt="Vivensb's GitHub stats" />
 </p>
 
 ---
