@@ -85,8 +85,6 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci)
@@ -129,9 +127,6 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
   </a>
   <a href="mailto:vivens.byiringiro77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/250786772668" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://vivensb.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
