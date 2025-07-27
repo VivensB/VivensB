@@ -1,6 +1,6 @@
 <!-- README.md for github.com/vivensb -->
 <h1 align="center">👋 Hi, I'm Vivens B</h1>
-<h3 align="center">💻 Full-Stack Engineer | AI Builder | Cloud DevOps Specialist</h3>
+<h3 align="center"> Full-Stack Engineer | AI Builder | Cloud DevOps Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=620&lines=Software+Engineering;Expert+in+Python%2C+TypeScript%2C+JavaScript;Cloud+DevOps+%7C+Shell+Ninja+%7C+Backend+Wizard;Building+AI+%7C+Trading+Systems+%7C+Smart+Ops" alt="Typing SVG" />
@@ -8,15 +8,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years of experience in building scalable, intelligent, and high-performance systems. I specialize in modern web architecture, artificial intelligence, backend APIs, and DevOps practices, blending engineering skill with entrepreneurial vision.
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠 Tech Toolbox
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
@@ -25,7 +25,7 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## ⚙️ Backend, APIs & Databases
+## Backend, APIs & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
@@ -47,7 +47,7 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## 🎨 UI/UX & Frontend Design
+## UI/UX & Frontend Design
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js)
@@ -61,7 +61,7 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## 🧠 Machine Learning & Transformers
+## Machine Learning & Transformers
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
@@ -78,7 +78,7 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## 🚀 DevOps & Infra
+## DevOps & Infra
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
@@ -96,18 +96,18 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## 🌐 Communication & Streaming
+## Communication & Streaming
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivensb&theme=radical" />
 </p>
 
-## 📬 Get in Touch
+## Get in Touch
 
 <p align="center">
   <a href="https://linkedin.com/in/vivens-byiringiro-49b932194">
@@ -123,7 +123,7 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## 🔥 Current Projects
+## Current Projects
 
 - 🤖 AI-powered trading systems and agents  
 - ☁️ Cloud-native & distributed architectures  
@@ -132,7 +132,7 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## 📊 Extra Stats & Badges
+## Extra Stats & Badges
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views&color=blueviolet&style=flat" />
@@ -145,4 +145,4 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-> 🧠 _"Great software is built from chaos — organized by focus and vision."_ — **Vivens B**
+>  _"Great software is built from chaos — organized by focus and vision."_ — **Vivens B**
