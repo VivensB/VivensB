@@ -1,107 +1,45 @@
 <!-- README.md for github.com/vivensb -->
-<h1 align="center">👋 Hi, I'm Vivens B</h1>
-<h3 align="center"> Full-Stack Engineer | AI Builder | Cloud DevOps Specialist</h3>
+
+<h1 align="center">Vivens B</h1>
+<h3 align="center">Software Engineer • System Architect • AI Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=620&lines=Software+Engineering;Expert+in+Python%2C+TypeScript%2C+JavaScript;Cloud+DevOps+%7C+Shell+Ninja+%7C+Backend+Wizard;Building+AI+%7C+Trading+Systems+%7C+Smart+Ops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Engineering+Reliable+Systems+%7C+AI-Driven+Architecture;Cloud+Infra+%7C+Full-Stack+Execution+%7C+DevOps+Automation;Python+%7C+TypeScript+%7C+Vue+%7C+Systems+Design+%26+Scaling" alt="Typing SVG" />
 </p>
 
 ---
 
-## About Me
+### 🧩 Overview
 
-I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years of experience in building scalable, intelligent, and high-performance systems. I specialize in modern web architecture, artificial intelligence, backend APIs, and DevOps practices, blending engineering skill with entrepreneurial vision.
+I'm a multidisciplinary software engineer and system architect focused on designing and building scalable, intelligent, and automation-driven systems. My work spans from core backend infrastructure to frontend platforms, from cloud-native DevOps pipelines to AI-powered applications.
 
----
-
-## 🛠 Tech Toolbox
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=flat&logo=php)
+I specialize in:
+- **Modern Full-Stack Architecture** — From high-concurrency APIs to component-based UI systems  
+- **Infrastructure & DevOps Engineering** — CI/CD, containerization, service orchestration, observability  
+- **Intelligent Systems & AI Integration** — Language models, distributed pipelines, and vector search  
+- **Realtime & Data-Intensive Applications** — Event-driven systems, websocket architectures, streaming pipelines  
 
 ---
 
-## Backend, APIs & Databases
+### ⚒️ Core Technical Domains
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc)
-![gRPC](https://img.shields.io/badge/gRPC-00599C?style=flat&logo=grpc)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka)
-![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-1E4E8C?style=flat&logo=timescaledb)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-3498DB?style=flat)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat&logo=websockets)
+- **Languages & Frameworks**: TypeScript, Python, JavaScript, PHP, Shell, Vue, Nuxt, React, Node, Fastify, NestJS  
+- **Architecture & API Design**: tRPC, gRPC, REST, Microservices, Kafka, Redis, WebSockets  
+- **Databases**: PostgreSQL, TimescaleDB, MongoDB, Firebase, Prisma ORM, Drizzle  
+- **AI/ML**: PyTorch, Transformers, HuggingFace, LangChain, LLM RAG, Scikit-learn, Pandas  
+- **DevOps & Cloud**: Docker, Kubernetes, GitHub Actions, AWS, GCP, DigitalOcean, Linux, Bash  
+- **UI/UX**: TailwindCSS, HTML5 Canvas, Design Systems, SSR/SSG with Next/Nuxt  
 
 ---
 
-## UI/UX & Frontend Design
+### 📊 GitHub Stats
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-## ML / AI
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=flat&logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![LLamaIndex](https://img.shields.io/badge/LLamaIndex-3B3B98?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![RAG](https://img.shields.io/badge/RAG-RetrievalAugmentedGeneration-blue)
-![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-005BBB?style=flat)
-
----
-
-## DevOps & Infra
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat&logo=linode)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash)
-
----
-
-## Communication & Streaming
-
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc)
-
----
-
----
-
->  _"Great software is built from chaos — organized by focus and vision."_ — **Vivens B**
+> _"Systems become powerful when simplicity meets precision."_ — **Vivens B**
