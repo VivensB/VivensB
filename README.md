@@ -61,7 +61,7 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## Machine Learning & Transformers
+## ML / AI
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
@@ -102,10 +102,14 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivensb&theme=radical" />
-</p>
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/teerenzo/github-readme-stats"><img alt="teerenzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=teerenzo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/teerenzo/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="teerenzo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=teerenzo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+     <a href="https://github.com/teerenzo/github-readme-stats"><img alt="teerenzo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teerenzo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## Get in Touch
 
