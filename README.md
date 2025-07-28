@@ -102,10 +102,6 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjamincanac&show_icons=true&theme=vue" alt="VivensB's GitHub stats" />
-</p>
-
 ---
 
 >  _"Great software is built from chaos — organized by focus and vision."_ — **Vivens B**
