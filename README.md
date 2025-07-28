@@ -102,49 +102,8 @@ I'm Vivens Byiringiro, a multi-disciplinary software engineer with over 6 years 
 
 ---
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/teerenzo/github-readme-stats"><img alt="teerenzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=teerenzo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        <a href="https://github.com/teerenzo/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="teerenzo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=teerenzo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-     <a href="https://github.com/teerenzo/github-readme-stats"><img alt="teerenzo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teerenzo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-## Get in Touch
-
-<p align="center">
-  <a href="https://linkedin.com/in/vivens-byiringiro-49b932194">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vivens.byiringiro77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://vivensb.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Current Projects
-
-- 🤖 AI-powered trading systems and agents  
-- ☁️ Cloud-native & distributed architectures  
-- 🧠 LLM-based smart assistants (Jarvis v1–v7)  
-- ⚡ Real-time data pipelines & automation
-
----
-
-## Extra Stats & Badges
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivensb&label=Profile+Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/commit-activity/m/vivensb/vivensb?color=blue&label=Monthly%20Commits" />
-  <img src="https://img.shields.io/badge/Typing_Speed-130_WPM-brightgreen?logo=fastly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-6%2B_Years-important?logo=codeforces" />
-  <img src="https://img.shields.io/badge/Projects-25%2B-success?logo=github" />
-  <img src="https://img.shields.io/badge/Current_Streak-7_days-orange?logo=github" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=benjamincanac&show_icons=true&theme=vue" alt="VivensB's GitHub stats" />
 </p>
 
 ---
