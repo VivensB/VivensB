@@ -11,19 +11,28 @@
 
 ### 👨‍💻 Focus Areas
 
-<p align="center">
-  <code><b>Modern Full-Stack Architecture</b></code><br/>
-  <sub style="font-family:'JetBrains Mono', monospace;">From high-concurrency APIs to component-based UI systems</sub><br/><br/>
+<p align="center" style="font-family:'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6;">
+  <div>
+    <code><b>Modern Full-Stack Architecture</b></code><br/>
+    <sub>From high-concurrency APIs to component-based UI systems</sub>
+  </div><br/>
 
-  <code><b>Infrastructure & DevOps Engineering</b></code><br/>
-  <sub style="font-family:'JetBrains Mono', monospace;">CI/CD, containerization, service orchestration, observability</sub><br/><br/>
+  <div>
+    <code><b>Infrastructure & DevOps Engineering</b></code><br/>
+    <sub>CI/CD, containerization, service orchestration, observability</sub>
+  </div><br/>
 
-  <code><b>Intelligent Systems & AI Integration</b></code><br/>
-  <sub style="font-family:'JetBrains Mono', monospace;">Language models, distributed pipelines, and vector search</sub><br/><br/>
+  <div>
+    <code><b>Intelligent Systems & AI Integration</b></code><br/>
+    <sub>Language models, distributed pipelines, and vector search</sub>
+  </div><br/>
 
-  <code><b>Realtime & Data-Intensive Applications</b></code><br/>
-  <sub style="font-family:'JetBrains Mono', monospace;">Event-driven systems, websocket architectures, streaming pipelines</sub>
+  <div>
+    <code><b>Realtime & Data-Intensive Applications</b></code><br/>
+    <sub>Event-driven systems, websocket architectures, streaming pipelines</sub>
+  </div>
 </p>
+
 
 ---
 
