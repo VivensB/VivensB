@@ -115,11 +115,11 @@
 </p>-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kennynlook&show_icons=true&theme=tokyonight&hide_border=true" alt="Kenny's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=tokyonight&hide_border=true" alt="VivensB's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennynlook&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
