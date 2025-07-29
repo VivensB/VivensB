@@ -39,7 +39,7 @@
 
 ---
 
-### ⚒️ Core Tech Stack (Icons Only)
+### ⚒️ Core Tech Stack
 
 #### 🧠 Languages & Frameworks
 <p align="left">
@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kennynlook&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivensb&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
