@@ -1,5 +1,4 @@
 <!-- README.md for github.com/vivensb -->
-
 <h1 align="center">Vivens B</h1>
 <h3 align="center">Software Engineer • System Architect • AI Technologist</h3>
 
