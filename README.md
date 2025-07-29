@@ -1,5 +1,9 @@
 <!-- README.md for github.com/vivensb -->
-<h1 align="center">Vivens B</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=VivensB&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">Software Engineer • System Architect • AI Technologist</h3>
 
 <p align="center">
