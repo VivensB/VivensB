@@ -109,9 +109,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivensb&theme=tokyonight" width="48%" />
+</p>-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kennynlook&show_icons=true&theme=tokyonight&hide_border=true" alt="Kenny's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennynlook&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
