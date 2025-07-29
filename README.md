@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 Focus Areas
+### Focus Areas
 
 <p align="center" style="font-family:'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6;">
   <div>
@@ -39,9 +39,9 @@
 
 ---
 
-### ⚒️ Core Tech Stack
+###  Core Tech Stack
 
-#### 🧠 Languages & Frameworks
+#### Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs" />
 </p>
 
-#### 🧩 Architecture & APIs
+#### Architecture & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat" />
   <img src="https://img.shields.io/badge/gRPC-00599C?style=flat&logo=grpc" />
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/WebSockets-000000?style=flat&logo=websockets" />
 </p>
 
-#### 🗃 Databases & Storage
+#### Databases & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/TimescaleDB-1E4E8C?style=flat" />
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Drizzle-3498DB?style=flat" />
 </p>
 
-#### 🤖 AI / Machine Learning
+#### AI / Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch" />
   <img src="https://img.shields.io/badge/Transformers-FF6F61?style=flat&logo=python" />
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
 </p>
 
-#### 🛠 DevOps & Cloud
+#### DevOps & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" />
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash" />
 </p>
 
-#### 🎨 UI/UX & Frontend Tooling
+#### UI/UX & Frontend Tooling
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5" />
@@ -111,7 +111,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=tokyonight" width="48%" />
