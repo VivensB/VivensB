@@ -127,6 +127,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivensb&theme=github_dark" />
 </p>
 
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=aloisseckar&show_icons=true&theme=cobalt&locale=en" alt="aloisseckar" /></p>
+
 ---
 
 > _"Systems become powerful when simplicity meets precision."_ — **Vivens B**
