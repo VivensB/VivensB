@@ -130,3 +130,7 @@
 ---
 
 > _"Systems become powerful when simplicity meets precision."_ — **Vivens B**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=footer" />
+</p>
