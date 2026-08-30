@@ -1,33 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Vivens B, software engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Vivens B">
   <defs>
-    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#1B2530" stroke-width="1"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F14"/><stop offset="1" stop-color="#141C25"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#1C2836"/>
     </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0D1117" stop-opacity="0"/>
-      <stop offset="0.72" stop-color="#0D1117" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#0D1117" stop-opacity="1"/>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3FB950" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#3FB950" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="veil" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B0F14" stop-opacity="1"/>
+      <stop offset="0.46" stop-color="#0B0F14" stop-opacity="0.96"/>
+      <stop offset="0.78" stop-color="#0B0F14" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" fill="#0D1117"/>
-  <rect width="1200" height="300" fill="url(#g)"/>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#dots)"/>
 
-  <!-- a tracked route: the thing the telematics work actually produces -->
-  <path d="M60 232 L188 232 L248 176 L392 176 L452 118 L604 118 L668 190 L836 190 L900 132 L1140 132"
-        fill="none" stroke="#2A3A47" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-  <g fill="#0D1117" stroke="#3FB950" stroke-width="2.5">
-    <circle cx="188" cy="232" r="5"/><circle cx="392" cy="176" r="5"/>
-    <circle cx="604" cy="118" r="5"/><circle cx="836" cy="190" r="5"/>
+  <!-- three strata: firmware, service, interface -->
+  <g>
+    <path d="M700 262 L1200 210 L1200 268 L700 320 Z" fill="#16202B"/>
+    <path d="M700 196 L1200 144 L1200 202 L700 254 Z" fill="#18242F"/>
+    <path d="M700 130 L1200  78 L1200 136 L700 188 Z" fill="#1B2833"/>
   </g>
-  <circle cx="1140" cy="132" r="8" fill="#3FB950"/>
-  <circle cx="1140" cy="132" r="16" fill="none" stroke="#3FB950" stroke-width="1.5" opacity="0.45"/>
-  <circle cx="1140" cy="132" r="26" fill="none" stroke="#3FB950" stroke-width="1" opacity="0.2"/>
 
-  <rect width="1200" height="300" fill="url(#fade)" transform="translate(1200,0) scale(-1,1)"/>
+  <!-- a signal crossing all three -->
+  <path d="M726 292 L826 250 L906 268 L986 176 L1066 200 L1146 104"
+        fill="none" stroke="#3FB950" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" opacity="0.92"/>
+  <g fill="#0B0F14" stroke="#3FB950" stroke-width="2">
+    <circle cx="826" cy="250" r="4.2"/><circle cx="986" cy="176" r="4.2"/>
+  </g>
+  <circle cx="1146" cy="104" r="46" fill="url(#glow)"/>
+  <circle cx="1146" cy="104" r="6.5" fill="#3FB950"/>
 
-  <text x="64" y="142" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
-        font-size="62" font-weight="700" letter-spacing="-1.5" fill="#E6EDF3">Vivens B</text>
-  <text x="67" y="180" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
-        font-size="19" font-weight="500" letter-spacing="0.2" fill="#8B949E">Full-stack TypeScript · Embedded · Trading systems</text>
+  <rect width="1200" height="320" fill="url(#veil)"/>
+
+  <text x="72" y="150" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="70" font-weight="700" letter-spacing="-2.4" fill="#F0F6FC">Vivens B</text>
+  <rect x="76" y="176" width="54" height="2.5" fill="#3FB950" rx="1.25"/>
+  <text x="75" y="212" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="18.5" font-weight="500" letter-spacing="0.1" fill="#8B98A5">Full-stack TypeScript · Embedded · Trading systems</text>
 </svg>
