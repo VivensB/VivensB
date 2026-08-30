@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Vivens B, full-stack TypeScript, embedded and trading systems" src="./assets/banner-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light-v2.svg">
+  <img alt="Vivens B, full-stack TypeScript, embedded and trading systems" src="./assets/banner-dark-v2.svg" width="100%">
 </picture>
 
 <br/>
@@ -98,8 +98,6 @@ multi-tenant school platforms, trading infrastructure and Web3.
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
 ## Open source
-
-I answer upstream, and I reproduce before posting rather than reasoning from memory.
 
 <table>
 <tr><td width="23%" valign="top"><a href="https://github.com/pnpm/pnpm/discussions/14282"><b>pnpm #14282</b></a> ✅</td>
