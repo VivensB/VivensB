@@ -68,12 +68,21 @@ over a patchy GSM network, and the interface someone uses to act on it.
 <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" />
 <img src="https://img.shields.io/badge/GSM_%2F_GPRS-5A5A5A?style=flat-square" />
 
-**Trading automation**
+**Trading & market data**
 <br/>
 <img src="https://img.shields.io/badge/Bybit_API-F7A600?style=flat-square" />
+<img src="https://img.shields.io/badge/Binance_API-F0B90B?style=flat-square&logo=binance&logoColor=black" />
 <img src="https://img.shields.io/badge/Technical_Indicators-5A5A5A?style=flat-square" />
 <img src="https://img.shields.io/badge/Algo_Strategies-5A5A5A?style=flat-square" />
+<img src="https://img.shields.io/badge/CoinGecko-8DC647?style=flat-square&logo=coingecko&logoColor=white" />
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+
+**Web3**
+<br/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
+<img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/web3.py-F16822?style=flat-square&logo=python&logoColor=white" />
 
 **DevOps & systems**
 <br/>
