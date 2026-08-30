@@ -1,142 +1,70 @@
-<!-- README.md for github.com/vivensb -->
+<h1 align="center">Vivens B</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=VivensB&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  Software engineer working across full-stack TypeScript and embedded systems.<br/>
+  Kigali, Rwanda.
 </p>
 
-<h3 align="center">AI Systems Engineer • Backend & LLM Infrastructure Architect</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Systems+%7C+LLM+Infrastructure+%7C+High-Performance+Backend;Event-Driven+Architectures+%7C+Real-Time+Data+Pipelines;RAG+Systems+%7C+Trading+Infrastructure+%7C+Cloud-Native" alt="Typing SVG" />
+  <a href="https://vivens.pro">vivens.pro</a>
 </p>
 
 ---
 
-### Focus Areas
+### What I build
 
-<p align="center" style="font-family:'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6;">
-  <div>
-    <code><b>AI Systems Engineering & LLM Infrastructure</b></code><br/>
-    <sub>RAG architectures, transformer-based NLP, LLM integration into production</sub>
-  </div><br/>
+**Product engineering.** React Native and Expo apps, Next.js App Router and Nuxt 3 on the web, Postgres behind Drizzle or Supabase. Auth, payments, multi-tenant data models, the parts that have to keep working.
 
-  <div>
-    <code><b>Distributed Backend & Microservices</b></code><br/>
-    <sub>Event-driven systems, high-performance APIs (<50ms), DDD, clean architecture</sub>
-  </div><br/>
+**Embedded and telematics.** ESP32 and Arduino firmware, GSM and GPRS modules (A9G, A7670, SIM7600), GPS tracking and RFID. Vehicle tracking is where the two halves meet: firmware that holds a session on a flaky network, and an app that makes the data useful.
 
-  <div>
-    <code><b>Real-Time Data Infrastructure</b></code><br/>
-    <sub>Streaming pipelines, WebSockets, Kafka, GPS telematics, trading data</sub>
-  </div><br/>
-
-  <div>
-    <code><b>Cloud-Native & MLOps</b></code><br/>
-    <sub>Docker, Kubernetes, CI/CD, model serving (FastAPI), observability</sub>
-  </div>
-</p>
-
+**Applied AI.** LLM features in production apps using the Vercel AI SDK, retrieval, and tracing with Langfuse.
 
 ---
 
-### Core Tech Stack
+### Open source
 
-#### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust" />
+I answer technical questions upstream, and I reproduce things before posting rather than reasoning from memory. Recent work:
+
+- **[tailwindcss#20443](https://github.com/tailwindlabs/tailwindcss/discussions/20443)**<br/>
+  bisected a CSS nesting regression across five releases and pinned it to v4.3.3, where `&__element` began compiling to an invalid selector that later tooling silently drops.
+- **[supabase#49709](https://github.com/supabase/supabase/discussions/49709)**<br/>
+  reproduced a row-level security `42501` across seven policy configurations on PostgreSQL 16, and showed that whether the error names a policy tells you which half of the policy set failed.
+- **[better-auth#11026](https://github.com/better-auth/better-auth/discussions/11026)**<br/>
+  demonstrated that `SET search_path` on a shared connection pool leaks across tenants, and verified the alternative keeps tenants isolated on a single reused connection.
+- **[trpc#7528](https://github.com/trpc/trpc/discussions/7528)**<br/>
+  traced which branches of a duplicated test helper were genuinely uncovered, then wrote the patch that closes the gap without widening the package's public API.
+- **[pnpm#14282](https://github.com/pnpm/pnpm/discussions/14282)**<br/>
+  established which `bin` entry `pnpm create` resolves, with the negative case that proves the name match is required. *Accepted answer.*
+
+---
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
-
-#### Backend & APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=flat&logo=websockets" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=flat" />
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
-
-#### Architecture & Streaming
-<p align="left">
-  <img src="https://img.shields.io/badge/Microservices-007ACC?style=flat" />
-  <img src="https://img.shields.io/badge/Event%20Driven-000000?style=flat" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq" />
-  <img src="https://img.shields.io/badge/BullMQ-FF8C00?style=flat" />
-</p>
-
-#### Databases & Geospatial
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/TimescaleDB-1E4E8C?style=flat" />
-  <img src="https://img.shields.io/badge/PostGIS-3D9C5C?style=flat" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
-</p>
-
-#### AI / Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F61?style=flat&logo=huggingface" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat" />
-  <img src="https://img.shields.io/badge/RAG-0055FF?style=flat" />
-  <img src="https://img.shields.io/badge/DistilBERT-7C3AED?style=flat" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" />
-</p>
-
-#### DevOps & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud" />
-</p>
-
-#### Observability
-<p align="left">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana" />
-  <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticsearch" />
-</p>
-
-#### Frontend & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" />
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivensb&show_icons=true&theme=tokyonight&hide_border=true" alt="VivensB's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivensb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivensb&theme=github_dark" />
-</p>
-
----
-
-> *"Systems become powerful when simplicity meets precision."* - **Vivens B**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=footer" />
+  <a href="https://vivens.pro">vivens.pro</a> ·
+  <a href="mailto:vivens.byiringiro77@gmail.com">email</a>
 </p>
