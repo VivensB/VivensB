@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Vivens B, full-stack TypeScript and embedded telematics, Kigali Rwanda" src="./assets/banner-dark.svg" width="100%">
+  <img alt="Vivens B, full-stack TypeScript, embedded and trading systems" src="./assets/banner-dark.svg" width="100%">
 </picture>
 
 <br/>
