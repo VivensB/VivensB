@@ -68,6 +68,13 @@ over a patchy GSM network, and the interface someone uses to act on it.
 <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" />
 <img src="https://img.shields.io/badge/GSM_%2F_GPRS-5A5A5A?style=flat-square" />
 
+**Trading automation**
+<br/>
+<img src="https://img.shields.io/badge/Bybit_API-F7A600?style=flat-square" />
+<img src="https://img.shields.io/badge/Technical_Indicators-5A5A5A?style=flat-square" />
+<img src="https://img.shields.io/badge/Algo_Strategies-5A5A5A?style=flat-square" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+
 **DevOps & systems**
 <br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
