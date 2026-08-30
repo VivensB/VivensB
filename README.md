@@ -6,9 +6,11 @@
 
 <br/>
 
-I build and ship software products for the Rwandan market, mostly multi-tenant SaaS,
-and I work at both ends of the stack: the firmware that reports a vehicle's position
-over a patchy GSM network, and the interface someone uses to act on it.
+I build complete systems rather than pieces of them: firmware, the service that
+ingests what it sends, and the interface someone opens to act on it.
+
+Most of what I ship runs in production for real users, across vehicle telematics,
+multi-tenant school platforms, trading infrastructure and Web3.
 
 <br/>
 
