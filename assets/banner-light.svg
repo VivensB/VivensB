@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Vivens B, software engineer">
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#EAEEF2" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.72" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#FFFFFF"/>
+  <rect width="1200" height="300" fill="url(#g)"/>
+
+  <!-- a tracked route: the thing the telematics work actually produces -->
+  <path d="M60 232 L188 232 L248 176 L392 176 L452 118 L604 118 L668 190 L836 190 L900 132 L1140 132"
+        fill="none" stroke="#D0D7DE" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <g fill="#FFFFFF" stroke="#1A7F37" stroke-width="2.5">
+    <circle cx="188" cy="232" r="5"/><circle cx="392" cy="176" r="5"/>
+    <circle cx="604" cy="118" r="5"/><circle cx="836" cy="190" r="5"/>
+  </g>
+  <circle cx="1140" cy="132" r="8" fill="#1A7F37"/>
+  <circle cx="1140" cy="132" r="16" fill="none" stroke="#1A7F37" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="1140" cy="132" r="26" fill="none" stroke="#1A7F37" stroke-width="1" opacity="0.2"/>
+
+  <rect width="1200" height="300" fill="url(#fade)" transform="translate(1200,0) scale(-1,1)"/>
+
+  <text x="64" y="128" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="62" font-weight="700" letter-spacing="-1.5" fill="#1F2328">Vivens B</text>
+  <text x="67" y="166" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="19" font-weight="500" letter-spacing="0.2" fill="#59636E">Full-stack TypeScript · Embedded telematics</text>
+  <text x="67" y="196" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="14" font-weight="400" letter-spacing="2.2" fill="#1A7F37">KIGALI, RWANDA</text>
+</svg>

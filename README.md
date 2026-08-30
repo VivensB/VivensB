@@ -1,70 +1,129 @@
-<h1 align="center">Vivens B</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="Vivens B, full-stack TypeScript and embedded telematics, Kigali Rwanda" src="./assets/banner-dark.svg" width="100%">
+</picture>
+
+<br/>
+
+I build and ship software products for the Rwandan market, mostly multi-tenant SaaS,
+and I work at both ends of the stack: the firmware that reports a vehicle's position
+over a patchy GSM network, and the interface someone uses to act on it.
+
+<br/>
+
+## What I ship
+
+<table>
+<tr><td width="50%" valign="top">
+
+### 🎓 School management
+**SchoolHub** · **ZiSchool**
+
+Multi-tenant MIS for primary and secondary schools. Enrolment, transcripts,
+reporting. Fastify and Prisma on Postgres, Vue 3 and Next.js clients,
+per-tenant data isolation.
+
+</td><td width="50%" valign="top">
+
+### 🛰 Vehicle telematics
+**Moto-Track**
+
+Tracking for Rwanda's moto economy, end to end. GSM firmware, ingest server,
+ERP, admin console, and an Expo app with MapLibre. Nx monorepo.
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### 🚨 Roadside assistance
+**Roadside Assistant**
+
+Dispatch platform. Fastify with WebSockets for live driver position,
+React Native app for responders, Next.js console for operators.
+
+</td><td width="50%" valign="top">
+
+### 💼 Business & training
+**Boostly** · **SmartLinkRwanda**
+
+SME tooling and an IT training and certification platform.
+Next.js, Drizzle, Supabase.
+
+</td></tr>
+</table>
+
+<br/>
+
+## Stack
+
+**Web**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+**Mobile**
+<br/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/MapLibre-295DAA?style=flat-square&logo=maplibre&logoColor=white" />
+<img src="https://img.shields.io/badge/Reanimated-001A72?style=flat-square&logo=react&logoColor=white" />
+
+**Backend & data**
+<br/>
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+**Embedded**
+<br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/GSM_%2F_GPRS-5A5A5A?style=flat-square&logoColor=white" />
+
+**Tooling**
+<br/>
+<img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+
+<br/>
+
+## Open source
+
+I answer upstream, and I reproduce before I post rather than reasoning from memory.
+
+<table>
+<tr><td><a href="https://github.com/tailwindlabs/tailwindcss/discussions/20443"><b>tailwindcss #20443</b></a></td>
+<td>Bisected a CSS nesting regression across five releases to v4.3.3, where <code>&amp;__element</code> starts compiling to an invalid selector that later tooling silently drops.</td></tr>
+
+<tr><td><a href="https://github.com/supabase/supabase/discussions/49709"><b>supabase #49709</b></a></td>
+<td>Reproduced an RLS <code>42501</code> across seven policy configurations on PostgreSQL 16, and showed that whether the error names a policy tells you which half of the policy set failed.</td></tr>
+
+<tr><td><a href="https://github.com/better-auth/better-auth/discussions/11026"><b>better-auth #11026</b></a></td>
+<td>Demonstrated that <code>SET search_path</code> on a shared pool leaks across tenants, and verified the alternative keeps them isolated on one reused connection.</td></tr>
+
+<tr><td><a href="https://github.com/trpc/trpc/discussions/7528"><b>trpc #7528</b></a></td>
+<td>Traced which branches of a duplicated test helper were genuinely uncovered, then wrote the patch that closes the gap without widening the package's public API.</td></tr>
+
+<tr><td><a href="https://github.com/pnpm/pnpm/discussions/14282"><b>pnpm #14282</b></a></td>
+<td>Established which <code>bin</code> entry <code>pnpm create</code> resolves, with the negative case proving the name match is required. <b>Accepted answer.</b></td></tr>
+</table>
+
+<br/>
 
 <p align="center">
-  Software engineer working across full-stack TypeScript and embedded systems.<br/>
-  Kigali, Rwanda.
-</p>
-
-<p align="center">
-  <a href="https://vivens.pro">vivens.pro</a>
-</p>
-
----
-
-### What I build
-
-**Product engineering.** React Native and Expo apps, Next.js App Router and Nuxt 3 on the web, Postgres behind Drizzle or Supabase. Auth, payments, multi-tenant data models, the parts that have to keep working.
-
-**Embedded and telematics.** ESP32 and Arduino firmware, GSM and GPRS modules (A9G, A7670, SIM7600), GPS tracking and RFID. Vehicle tracking is where the two halves meet: firmware that holds a session on a flaky network, and an app that makes the data useful.
-
-**Applied AI.** LLM features in production apps using the Vercel AI SDK, retrieval, and tracing with Langfuse.
-
----
-
-### Open source
-
-I answer technical questions upstream, and I reproduce things before posting rather than reasoning from memory. Recent work:
-
-- **[tailwindcss#20443](https://github.com/tailwindlabs/tailwindcss/discussions/20443)**<br/>
-  bisected a CSS nesting regression across five releases and pinned it to v4.3.3, where `&__element` began compiling to an invalid selector that later tooling silently drops.
-- **[supabase#49709](https://github.com/supabase/supabase/discussions/49709)**<br/>
-  reproduced a row-level security `42501` across seven policy configurations on PostgreSQL 16, and showed that whether the error names a policy tells you which half of the policy set failed.
-- **[better-auth#11026](https://github.com/better-auth/better-auth/discussions/11026)**<br/>
-  demonstrated that `SET search_path` on a shared connection pool leaks across tenants, and verified the alternative keeps tenants isolated on a single reused connection.
-- **[trpc#7528](https://github.com/trpc/trpc/discussions/7528)**<br/>
-  traced which branches of a duplicated test helper were genuinely uncovered, then wrote the patch that closes the gap without widening the package's public API.
-- **[pnpm#14282](https://github.com/pnpm/pnpm/discussions/14282)**<br/>
-  established which `bin` entry `pnpm create` resolves, with the negative case that proves the name match is required. *Accepted answer.*
-
----
-
-### Stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://vivens.pro">vivens.pro</a> ·
-  <a href="mailto:vivens.byiringiro77@gmail.com">email</a>
+  <a href="https://vivens.pro"><b>vivens.pro</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:vivens.byiringiro77@gmail.com">vivens.byiringiro77@gmail.com</a>
 </p>
