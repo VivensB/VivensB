@@ -43,11 +43,11 @@ React Native app for responders, Next.js console for operators.
 
 </td><td width="50%" valign="top">
 
-### 💼 Business & training
-**Boostly** · **SmartLinkRwanda**
+### 📚 IT training
+**SmartLinkRwanda**
 
-SME tooling and an IT training and certification platform.
-Next.js, Drizzle, Supabase.
+Professional training, certification and consultancy platform for
+Rwanda's IT sector. Next.js, Tailwind, Drizzle on SQLite.
 
 </td></tr>
 </table>
