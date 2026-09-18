@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 888 488" width="888" height="488">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F14"/><stop offset="1" stop-color="#141C25"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#18222D"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="887" height="487" rx="14" fill="url(#bg)" stroke="#1F2A36"/>
+  <rect x="0.5" y="0.5" width="887" height="487" rx="14" fill="url(#dots)" opacity="0.7"/>
+  <text x="36.0" y="50" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#3FB950">PRODUCT</text>
+  <rect x="36.0" y="62" width="244" height="1" fill="#1F2A36"/>
+  <circle cx="40.0" cy="89" r="2.5" fill="#3FB950"/><text x="52.0" y="94" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">TypeScript</text>
+  <circle cx="40.0" cy="117" r="2.5" fill="#2A3947"/><text x="52.0" y="122" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Next.js / React</text>
+  <circle cx="40.0" cy="145" r="2.5" fill="#2A3947"/><text x="52.0" y="150" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Vue 3 / Nuxt</text>
+  <circle cx="40.0" cy="173" r="2.5" fill="#2A3947"/><text x="52.0" y="178" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">React Native / Expo</text>
+  <circle cx="40.0" cy="201" r="2.5" fill="#2A3947"/><text x="52.0" y="206" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Tailwind CSS</text>
+  <text x="308.0" y="50" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#3FB950">BACKEND &amp; DATA</text>
+  <rect x="308.0" y="62" width="244" height="1" fill="#1F2A36"/>
+  <circle cx="312.0" cy="89" r="2.5" fill="#3FB950"/><text x="324.0" y="94" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Go</text>
+  <circle cx="312.0" cy="117" r="2.5" fill="#2A3947"/><text x="324.0" y="122" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Node.js / Fastify</text>
+  <circle cx="312.0" cy="145" r="2.5" fill="#2A3947"/><text x="324.0" y="150" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Python</text>
+  <circle cx="312.0" cy="173" r="2.5" fill="#2A3947"/><text x="324.0" y="178" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">PostgreSQL / TimescaleDB</text>
+  <circle cx="312.0" cy="201" r="2.5" fill="#2A3947"/><text x="324.0" y="206" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Redis / BullMQ</text>
+  <text x="580.0" y="50" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#3FB950">REALTIME &amp; EVENTS</text>
+  <rect x="580.0" y="62" width="244" height="1" fill="#1F2A36"/>
+  <circle cx="584.0" cy="89" r="2.5" fill="#3FB950"/><text x="596.0" y="94" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">NATS JetStream</text>
+  <circle cx="584.0" cy="117" r="2.5" fill="#2A3947"/><text x="596.0" y="122" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">WebSockets / Socket.IO</text>
+  <circle cx="584.0" cy="145" r="2.5" fill="#2A3947"/><text x="596.0" y="150" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">MQTT</text>
+  <circle cx="584.0" cy="173" r="2.5" fill="#2A3947"/><text x="596.0" y="178" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">TCP device gateways</text>
+  <circle cx="584.0" cy="201" r="2.5" fill="#2A3947"/><text x="596.0" y="206" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">ESP32 / GSM firmware</text>
+  <text x="36.0" y="272" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#3FB950">AI &amp; LLMS</text>
+  <rect x="36.0" y="284" width="244" height="1" fill="#1F2A36"/>
+  <circle cx="40.0" cy="311" r="2.5" fill="#3FB950"/><text x="52.0" y="316" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">LLMs: Claude, OpenAI</text>
+  <circle cx="40.0" cy="339" r="2.5" fill="#2A3947"/><text x="52.0" y="344" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">LangChain / LangGraph</text>
+  <circle cx="40.0" cy="367" r="2.5" fill="#2A3947"/><text x="52.0" y="372" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">RAG pipelines</text>
+  <circle cx="40.0" cy="395" r="2.5" fill="#2A3947"/><text x="52.0" y="400" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Vercel AI SDK</text>
+  <circle cx="40.0" cy="423" r="2.5" fill="#2A3947"/><text x="52.0" y="428" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Langfuse</text>
+  <text x="308.0" y="272" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#3FB950">ML FOR TRADING</text>
+  <rect x="308.0" y="284" width="244" height="1" fill="#1F2A36"/>
+  <circle cx="312.0" cy="311" r="2.5" fill="#3FB950"/><text x="324.0" y="316" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">pandas / NumPy</text>
+  <circle cx="312.0" cy="339" r="2.5" fill="#2A3947"/><text x="324.0" y="344" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">scikit-learn</text>
+  <circle cx="312.0" cy="367" r="2.5" fill="#2A3947"/><text x="324.0" y="372" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Deep learning</text>
+  <circle cx="312.0" cy="395" r="2.5" fill="#2A3947"/><text x="324.0" y="400" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Reinforcement learning</text>
+  <circle cx="312.0" cy="423" r="2.5" fill="#2A3947"/><text x="324.0" y="428" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Backtesting</text>
+  <text x="580.0" y="272" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#3FB950">DEVOPS &amp; LINUX</text>
+  <rect x="580.0" y="284" width="244" height="1" fill="#1F2A36"/>
+  <circle cx="584.0" cy="311" r="2.5" fill="#3FB950"/><text x="596.0" y="316" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Linux servers</text>
+  <circle cx="584.0" cy="339" r="2.5" fill="#2A3947"/><text x="596.0" y="344" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Bash scripting</text>
+  <circle cx="584.0" cy="367" r="2.5" fill="#2A3947"/><text x="596.0" y="372" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Docker / Compose</text>
+  <circle cx="584.0" cy="395" r="2.5" fill="#2A3947"/><text x="596.0" y="400" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Nginx / TLS</text>
+  <circle cx="584.0" cy="423" r="2.5" fill="#2A3947"/><text x="596.0" y="428" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">GitHub Actions CI/CD</text>
+  <circle cx="584.0" cy="451" r="2.5" fill="#2A3947"/><text x="596.0" y="456" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#F0F6FC">Prometheus / Grafana</text>
+</svg>

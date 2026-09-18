@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 226" width="440" height="226">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F8FA"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#E7EBEF"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="439" height="225" rx="14" fill="url(#bg)" stroke="#D0D7DE"/>
+  <rect x="0.5" y="0.5" width="439" height="225" rx="14" fill="url(#dots)" opacity="0.7"/>
+  <rect x="28" y="30" width="3" height="12" rx="1.5" fill="#1A7F37"/>
+  <text x="40" y="41" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#1A7F37">EVENT-DRIVEN · IN DEVELOPMENT</text>
+  <text x="28" y="80" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#1F2328">BiCollect</text>
+  <g transform="translate(332 28)"><rect x="0" y="19" width="76" height="6" rx="3" fill="#1A7F37" opacity="0.85"/><line x1="8" y1="8" x2="8" y2="18" stroke="#C9D1D9" stroke-width="1.6"/><rect x="2" y="0" width="12" height="9" rx="2" fill="#C9D1D9"/><line x1="26" y1="26" x2="26" y2="36" stroke="#C9D1D9" stroke-width="1.6"/><rect x="20" y="36" width="12" height="9" rx="2" fill="#C9D1D9"/><line x1="44" y1="8" x2="44" y2="18" stroke="#C9D1D9" stroke-width="1.6"/><rect x="38" y="0" width="12" height="9" rx="2" fill="#1A7F37"/><line x1="62" y1="26" x2="62" y2="36" stroke="#C9D1D9" stroke-width="1.6"/><rect x="56" y="36" width="12" height="9" rx="2" fill="#C9D1D9"/></g>
+  <text x="28" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">A business operating platform: POS, inventory,</text>
+  <text x="28" y="133" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">finance, banking and CRM as services on NATS</text>
+  <text x="28" y="154" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">JetStream, sharing one kernel and one identity.</text>
+  <rect x="28" y="180" width="106.4" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="81.2" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">NATS JetStream</text>
+  <rect x="140.39999999999998" y="180" width="60.2" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="170.5" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">Fastify</text>
+  <rect x="206.59999999999997" y="180" width="80.0" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="246.6" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">PostgreSQL</text>
+  <rect x="292.59999999999997" y="180" width="53.6" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="319.4" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">BullMQ</text>
+  <rect x="352.19999999999993" y="180" width="47.0" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="375.7" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">MinIO</text>
+</svg>

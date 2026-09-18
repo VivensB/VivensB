@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 226" width="440" height="226">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F14"/><stop offset="1" stop-color="#141C25"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#18222D"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="439" height="225" rx="14" fill="url(#bg)" stroke="#1F2A36"/>
+  <rect x="0.5" y="0.5" width="439" height="225" rx="14" fill="url(#dots)" opacity="0.7"/>
+  <rect x="28" y="30" width="3" height="12" rx="1.5" fill="#3FB950"/>
+  <text x="40" y="41" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#3FB950">MULTI-TENANT PLATFORM</text>
+  <text x="28" y="80" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#F0F6FC">ZiSchool OS</text>
+  <g transform="translate(332 26)"><rect x="0" y="0" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="19" y="0" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="38" y="0" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="57" y="0" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="0" y="16" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="19" y="16" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="38" y="16" width="14" height="11" rx="2.5" fill="#3FB950"/><rect x="57" y="16" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="0" y="32" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="19" y="32" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="38" y="32" width="14" height="11" rx="2.5" fill="#2A3947"/><rect x="57" y="32" width="14" height="11" rx="2.5" fill="#2A3947"/></g>
+  <text x="28" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8B98A5">An operating system for schools: one kernel for</text>
+  <text x="28" y="133" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8B98A5">identity, RBAC and tenancy, apps as guests,</text>
+  <text x="28" y="154" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8B98A5">events on NATS, metrics in Prometheus and Grafana.</text>
+  <rect x="28" y="180" width="60.2" height="22" rx="11" fill="#16202B" stroke="#223040"/><text x="58.1" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C9D1D9">Fastify</text>
+  <rect x="94.19999999999999" y="180" width="40.4" height="22" rx="11" fill="#16202B" stroke="#223040"/><text x="114.4" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C9D1D9">NATS</text>
+  <rect x="140.6" y="180" width="80.0" height="22" rx="11" fill="#16202B" stroke="#223040"/><text x="180.6" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C9D1D9">PostgreSQL</text>
+  <rect x="226.6" y="180" width="80.0" height="22" rx="11" fill="#16202B" stroke="#223040"/><text x="266.6" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C9D1D9">Prometheus</text>
+  <rect x="312.6" y="180" width="60.2" height="22" rx="11" fill="#16202B" stroke="#223040"/><text x="342.7" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C9D1D9">Grafana</text>
+</svg>
