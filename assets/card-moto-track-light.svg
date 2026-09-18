@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 226" width="440" height="226">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F8FA"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#E7EBEF"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="439" height="225" rx="14" fill="url(#bg)" stroke="#D0D7DE"/>
+  <rect x="0.5" y="0.5" width="439" height="225" rx="14" fill="url(#dots)" opacity="0.7"/>
+  <rect x="28" y="30" width="3" height="12" rx="1.5" fill="#1A7F37"/>
+  <text x="40" y="41" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#1A7F37">VEHICLE TELEMATICS</text>
+  <text x="28" y="80" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#1F2328">Moto-Track</text>
+  <g transform="translate(332 26)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 44 L18 30 L32 36 L46 14 L60 20 L72 2" stroke="#1A7F37" stroke-width="2"/>
+    <circle cx="18" cy="30" r="3" fill="#FFFFFF" stroke="#1A7F37" stroke-width="1.6"/>
+    <circle cx="46" cy="14" r="3" fill="#FFFFFF" stroke="#1A7F37" stroke-width="1.6"/>
+    <circle cx="72" cy="2" r="4" fill="#1A7F37"/>
+  </g>
+  <text x="28" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">Motorcycle fleet tracking, end to end: GSM</text>
+  <text x="28" y="133" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">firmware on the device, the ingest server,</text>
+  <text x="28" y="154" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">an ERP, the admin console and a mobile app.</text>
+  <rect x="28" y="180" width="47.0" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="51.5" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">ESP32</text>
+  <rect x="81.0" y="180" width="60.2" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="111.1" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">Fastify</text>
+  <rect x="147.2" y="180" width="66.8" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="180.6" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">Postgres</text>
+  <rect x="220.0" y="180" width="40.4" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="240.2" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">Expo</text>
+  <rect x="266.4" y="180" width="66.8" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="299.8" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">MapLibre</text>
+  <rect x="339.2" y="180" width="27.2" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="352.8" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">Nx</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 226" width="440" height="226">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F8FA"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#E7EBEF"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="439" height="225" rx="14" fill="url(#bg)" stroke="#D0D7DE"/>
+  <rect x="0.5" y="0.5" width="439" height="225" rx="14" fill="url(#dots)" opacity="0.7"/>
+  <rect x="28" y="30" width="3" height="12" rx="1.5" fill="#1A7F37"/>
+  <text x="40" y="41" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#1A7F37">DISPATCH</text>
+  <text x="28" y="80" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#1F2328">Roadside Assistant</text>
+  <g transform="translate(332 26)" fill="none" stroke-linecap="round">
+    <path d="M2 44 C 20 44, 16 18, 38 22 S 58 6, 70 8" stroke="#C9D1D9" stroke-width="2" stroke-dasharray="3 5"/>
+    <circle cx="2" cy="44" r="3.5" fill="#C9D1D9"/>
+    <path d="M70 -4 a8 8 0 0 1 8 8 c0 6 -8 14 -8 14 s-8 -8 -8 -14 a8 8 0 0 1 8 -8 z" fill="#1A7F37"/>
+    <circle cx="70" cy="4" r="2.6" fill="#FFFFFF"/>
+  </g>
+  <text x="28" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">Dispatch platform with live responder</text>
+  <text x="28" y="133" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">positions over WebSockets, a mobile app for</text>
+  <text x="28" y="154" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">responders and a console for operators.</text>
+  <rect x="28" y="180" width="60.2" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="58.1" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">Fastify</text>
+  <rect x="94.19999999999999" y="180" width="80.0" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="134.2" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">WebSockets</text>
+  <rect x="180.2" y="180" width="93.2" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="226.8" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">React Native</text>
+  <rect x="279.4" y="180" width="60.2" height="22" rx="11" fill="#F0F3F6" stroke="#D8DEE4"/><text x="309.5" y="195" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#24292F">Next.js</text>
+</svg>
