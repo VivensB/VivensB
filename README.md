@@ -4,9 +4,11 @@
 
 <!-- ========================================================= -->
 
-<p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/5a8843b7-d6bd-4bfe-9855-95bc08357c22" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light-v2.svg">
+  <img alt="Vivens B" src="./assets/banner-dark-v2.svg" width="100%">
+</picture>
 
 <!-- ========================================================= -->
 
@@ -66,7 +68,6 @@ for real-world production environments.
 
 <td width="42%" align="center">
 
-<img width="960" height="960" alt="Image" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
 
 </td>
 
@@ -79,9 +80,6 @@ for real-world production environments.
 
 <!-- ========================================================= -->
 
-<p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/45e88119-2d01-4e84-895c-580287d27a03" />
-</p>
 
 <!-- ========================================================= -->
 
@@ -89,9 +87,6 @@ for real-world production environments.
 
 <!-- ========================================================= -->
 
-<p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/6f432534-5f4f-486a-8213-b4aeed78e62f" />
-</p>
 
 <!-- ========================================================= -->
 
@@ -99,9 +94,6 @@ for real-world production environments.
 
 <!-- ========================================================= -->
 
-<p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/44af0da5-f5b2-4063-bd51-6d54134522f5" />
-</p>
 
 <!-- ========================================================= -->
 
